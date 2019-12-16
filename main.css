@@ -1,0 +1,47 @@
+h1[data-v-2c11fd19],
+h3[data-v-2c11fd19] {
+  text-align: center;
+}
+p[data-v-2c11fd19] {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.bold[data-v-2c11fd19] {
+  color: #f00;
+  font-size: 25px;
+  text-align: center;
+}
+
+form[data-v-7203ef2c] {
+  text-align: center;
+}
+
+table[data-v-3e74adf9] {
+  text-align: center;
+}
+tr[data-v-3e74adf9] {
+  padding: 10;
+}
+
+.login-form[data-v-15717af5] {
+  text-align: center;
+  width: 50%;
+}
+
+.container[data-v-7ba5bd90] {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  max-width: 1200px;
+}
+b-nav-item[data-v-7ba5bd90] {
+  font-size: 40px;
+}
+
+.full-width {
+  width: 100%;
+}
+.center-content {
+  display: inline;
+  justify-content: center;
+  align-items: center;
+}
+
